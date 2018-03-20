@@ -1,0 +1,8 @@
+D:\C#程序\OA导入数据到付款申请单\OA导入数据到付款申请单\bin\Release\InputData.exe.config
+D:\C#程序\OA导入数据到付款申请单\OA导入数据到付款申请单\bin\Release\InputData.exe
+D:\C#程序\OA导入数据到付款申请单\OA导入数据到付款申请单\bin\Release\InputData.pdb
+D:\C#程序\OA导入数据到付款申请单\OA导入数据到付款申请单\obj\Release\InputData.Form1.resources
+D:\C#程序\OA导入数据到付款申请单\OA导入数据到付款申请单\obj\Release\InputData.Properties.Resources.resources
+D:\C#程序\OA导入数据到付款申请单\OA导入数据到付款申请单\obj\Release\InputData.csproj.GenerateResource.Cache
+D:\C#程序\OA导入数据到付款申请单\OA导入数据到付款申请单\obj\Release\InputData.exe
+D:\C#程序\OA导入数据到付款申请单\OA导入数据到付款申请单\obj\Release\InputData.pdb

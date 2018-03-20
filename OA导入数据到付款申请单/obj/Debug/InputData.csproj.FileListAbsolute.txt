@@ -1,0 +1,12 @@
+D:\C#程序\OA导入数据到付款申请单\OA导入数据到付款申请单\obj\Debug\InputData.Form1.resources
+D:\C#程序\OA导入数据到付款申请单\OA导入数据到付款申请单\obj\Debug\InputData.csproj.GenerateResource.Cache
+D:\C#程序\OA导入数据到付款申请单\OA导入数据到付款申请单\bin\Debug\InputData.exe.config
+D:\C#程序\OA导入数据到付款申请单\OA导入数据到付款申请单\bin\Debug\InputData.exe
+D:\C#程序\OA导入数据到付款申请单\OA导入数据到付款申请单\bin\Debug\InputData.pdb
+D:\C#程序\OA导入数据到付款申请单\OA导入数据到付款申请单\obj\Debug\InputData.Properties.Resources.resources
+D:\C#程序\OA导入数据到付款申请单\OA导入数据到付款申请单\obj\Debug\InputData.exe
+D:\C#程序\OA导入数据到付款申请单\OA导入数据到付款申请单\obj\Debug\InputData.pdb
+D:\C#程序\OA导入数据到付款申请单\OA导入数据到付款申请单\obj\Debug\InputData.csprojResolveAssemblyReference.cache
+D:\个人\GitHub\InputData\OA导入数据到付款申请单\bin\Debug\InputData.exe.config
+D:\个人\GitHub\InputData\OA导入数据到付款申请单\obj\Debug\InputData.exe
+D:\个人\GitHub\InputData\OA导入数据到付款申请单\obj\Debug\InputData.pdb
