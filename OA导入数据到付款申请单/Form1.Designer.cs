@@ -97,6 +97,9 @@
             // 
             this.DataGridViewExcel.AllowUserToAddRows = false;
             this.DataGridViewExcel.AllowUserToDeleteRows = false;
+            this.DataGridViewExcel.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.DataGridViewExcel.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.DataGridViewExcel.Location = new System.Drawing.Point(20, 215);
             this.DataGridViewExcel.Name = "DataGridViewExcel";
